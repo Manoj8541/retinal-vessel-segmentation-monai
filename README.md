@@ -1,6 +1,4 @@
 # retinal-vessel-segmentation-monai
-## Retinal Vessel Segmentation — MONAI Hackathon
-
 ---
 
 ## 🔷 Section 1 — Dataset & Preprocessing
