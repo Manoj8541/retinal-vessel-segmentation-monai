@@ -45,7 +45,7 @@ retinal-vessel-segmentation-monai/
 │
 ├── DRIVE_ML.ipynb              # Main notebook — all 6 tasks end-to-end
 ├── README.md                   # This file
-├── INTERVIEW_PREP.md           # Technical Q&A for interviews/viva
+├── INTERVIEW_PREP.md           # Technical Q&A
 └── assets/                     # (optional) sample output images
 ```
 
